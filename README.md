@@ -6,4 +6,5 @@
 - 😄 I'm natively speak Indonesian and is learning english.
 - 💕 I'm currently fall in love with VueJS and Laravel and the most important is Coffee
 - 📫 You can reach me at my instagram @bayfahrezi
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrezibayu&layout=compact)](https://github.com/fahrezibayu/github-readme-stats)
