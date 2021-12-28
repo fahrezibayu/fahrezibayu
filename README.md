@@ -7,4 +7,4 @@
 - 💕 I'm currently fall in love with VueJS and Laravel and the most important is Coffee
 - 📫 You can reach me at my instagram <a href="https://www.instagram.com/bayfahrezi/">@bayfahrezi</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrezibayu&layout=compact)](https://github.com/fahrezibayu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrezibayu&layout=compact)](https://github.com/fahrezibayu/)
