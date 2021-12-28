@@ -1,6 +1,6 @@
 ### Hi there, let me introduce myself👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=bayfahrezi&show_icons=true&theme=vue-dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=fahrezibayu&show_icons=true&theme=vue-dark)
 
 - 🔭 I’m currently working as a freelancer, you can check website <a href="https://sulungsoft.com"> Sulungsoft</a>
 - ⚡ Excited to create projects and to help others
