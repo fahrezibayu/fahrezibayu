@@ -8,4 +8,4 @@
 - 📫 You can reach me at my instagram @bayfahrezi
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrezibayu&layout=compact)](https://github.com/fahrezibayu/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrezibayu&layout=compact)](https://github.com/fahrezibayu/fashion_outlet)
