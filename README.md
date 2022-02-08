@@ -7,6 +7,6 @@
 - 🌱 I’m currently learning design and code (Web Developer)
 - 😄 I'm natively speak Indonesian and is learning english.
 - 💕 I'm currently fall in love with VueJS and Laravel and the most important is Coffee
-- 📫 You can reach me at my instagram [@bayfahrezi](https://instagram.com/bayfahrezi)
+- 📫 You can reach me at my instagram [@_fahrezibayu](https://instagram.com/_fahrezibayu)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrezibayu&layout=compact&theme=vue">
