@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, let me introduce myself👋</h1>
 <h3 align="center">Freelance Web Development from Indonesia</h3> <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahrezibayu&show_icons=true&locale=en" alt="fahrezibayu" /> <br>
 - 🔭 I’m currently working as a freelancer, you can check website <a href="https://sulungsoft.com"> Sulungsoft</a> <br>
 - ⚡ Excited to create projects and to help others <br>
 - 🌱 I’m currently learning design and code (Web Developer) <br>
@@ -12,6 +13,5 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahrezibayu&show_icons=true&locale=en&layout=compact" alt="fahrezibayu" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahrezibayu&show_icons=true&locale=en" alt="fahrezibayu" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahrezibayu&" alt="fahrezibayu" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=fahrezibayu&" alt="fahrezibayu" />
 </p>
