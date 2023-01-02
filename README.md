@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning design and code (Web Developer) <br>
 - 😄 I'm natively speak Indonesian and is learning english. <br>
 - 💕 I'm currently fall in love with VueJS and Laravel and the most important is Coffee <br>
-- 📫 You can reach me at my instagram [@_fahrezibayu](https://instagram.com/_fahrezibayu) <p> &nbsp; </p>
+- 📫 You can reach me at my instagram [@_fahrezibayu](https://instagram.com/_fahrezibayu)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fahrezi bayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahrezi bayu" height="30" width="40" /></a>
