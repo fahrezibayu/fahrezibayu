@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, let me introduce myself👋</h1>
 <h3 align="center">Freelance Web Development from Indonesia</h3> <br>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahrezibayu&show_icons=true&locale=en&layout=compact" alt="fahrezibayu" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahrezibayu&show_icons=true&locale=en&layout=compact" alt="fahrezibayu" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrezibayu&" alt="fahrezibayu" />
 </p>
 <p> &nbsp; </p>
