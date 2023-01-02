@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, let me introduce myself👋</h1>
-<h3 align="center">Freelance Web Development from Indonesia</h3>
+<h3 align="center">Hi there, let me introduce myself👋</h3>
 <p>
   <img width="44%" height="44%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahrezibayu&show_icons=true&locale=en&layout=compact" alt="fahrezibayu" />
   <img width="55%" height="55%" src="https://github-readme-stats.vercel.app/api?username=fahrezibayu&show_icons=true&locale=en" alt="fahrezibayu" />
