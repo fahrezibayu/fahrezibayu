@@ -8,7 +8,7 @@
 - 📫 You can reach me at my instagram [@_fahrezibayu](https://instagram.com/_fahrezibayu)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fahrezi-bayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahrezi bayu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fahrezi-bayu-24a445231/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahrezi bayu" height="30" width="40" /></a>
 <a href="https://instagram.com/fahrezibayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahrezibayu" height="30" width="40" /></a>
 <a href="https://discord.gg/fahrezibayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fahrezibayu" height="30" width="40" /></a>
 </p>
@@ -18,7 +18,7 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahrezibayu&show_icons=true&locale=en&layout=compact" alt="fahrezibayu" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=fahrezibayu&show_icons=true&locale=en" alt="fahrezibayu" />
+  <img align="right" width="150" height="150" src="https://github-readme-stats.vercel.app/api?username=fahrezibayu&show_icons=true&locale=en" alt="fahrezibayu" />
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahrezibayu&" alt="fahrezibayu" /></p>
