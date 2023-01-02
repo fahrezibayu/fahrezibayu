@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, let me introduce myself👋</h1>
-<h3 align="center">Freelance Web Development from Indonesia</h3>
-- 🔭 I’m currently working as a freelancer, you can check website <a href="https://sulungsoft.com"> Sulungsoft</a>
-- ⚡ Excited to create projects and to help others
-- 🌱 I’m currently learning design and code (Web Developer)
-- 😄 I'm natively speak Indonesian and is learning english.
-- 💕 I'm currently fall in love with VueJS and Laravel and the most important is Coffee
-- 📫 You can reach me at my instagram [@_fahrezibayu](https://instagram.com/_fahrezibayu)
+<h3 align="center">Freelance Web Development from Indonesia</h3> <br>
+- 🔭 I’m currently working as a freelancer, you can check website <a href="https://sulungsoft.com"> Sulungsoft</a> <br>
+- ⚡ Excited to create projects and to help others <br>
+- 🌱 I’m currently learning design and code (Web Developer) <br>
+- 😄 I'm natively speak Indonesian and is learning english. <br>
+- 💕 I'm currently fall in love with VueJS and Laravel and the most important is Coffee <br>
+- 📫 You can reach me at my instagram [@_fahrezibayu](https://instagram.com/_fahrezibayu) <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahrezibayu" alt="fahrezibayu" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
