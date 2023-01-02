@@ -19,5 +19,5 @@
 <p>
   <img idth="35%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahrezibayu&show_icons=true&locale=en&layout=compact" alt="fahrezibayu" />
   <img width="35%" height="35%" src="https://github-readme-stats.vercel.app/api?username=fahrezibayu&show_icons=true&locale=en" alt="fahrezibayu" />
-  <img width="35%" height="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahrezibayu&" alt="fahrezibayu" />
+  <img width="30%" height="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=fahrezibayu&" alt="fahrezibayu" />
 </p>
