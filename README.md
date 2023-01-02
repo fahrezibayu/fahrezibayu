@@ -1,6 +1,11 @@
 <h1 align="center">Hi there, let me introduce myself👋</h1>
 <h3 align="center">Freelance Web Development from Indonesia</h3>
-
+- 🔭 I’m currently working as a freelancer, you can check website <a href="https://sulungsoft.com"> Sulungsoft</a> <br>
+- ⚡ Excited to create projects and to help others <br>
+- 🌱 I’m currently learning design and code (Web Developer) <br>
+- 😄 I'm natively speak Indonesian and is learning english. <br>
+- 💕 I'm currently fall in love with VueJS and Laravel and the most important is Coffee <br>
+- 📫 You can reach me at my instagram [@_fahrezibayu](https://instagram.com/_fahrezibayu) <p> &nbsp; </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fahrezi bayu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahrezi bayu" height="30" width="40" /></a>
@@ -16,11 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahrezibayu&show_icons=true&locale=en" alt="fahrezibayu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahrezibayu&" alt="fahrezibayu" /></p>
-
-<p> &nbsp; </p>
-- 🔭 I’m currently working as a freelancer, you can check website <a href="https://sulungsoft.com"> Sulungsoft</a> <br>
-- ⚡ Excited to create projects and to help others <br>
-- 🌱 I’m currently learning design and code (Web Developer) <br>
-- 😄 I'm natively speak Indonesian and is learning english. <br>
-- 💕 I'm currently fall in love with VueJS and Laravel and the most important is Coffee <br>
-- 📫 You can reach me at my instagram [@_fahrezibayu](https://instagram.com/_fahrezibayu) <p> &nbsp; </p>
