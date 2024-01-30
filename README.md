@@ -1,9 +1,8 @@
 <h3 align="left">Hi there, let me introduce myself👋</h3>
-- 🔭 I’m currently working as a freelancer, you can check website <a href="https://sulungsoft.com"> Sulungsoft</a> <br>
+- 🔭 I’m currently working as a freelancer, you can check website <a href="https://tim-open.pro/fahrezibayu"> My Profile </a> <br>
 - ⚡ Excited to create projects and to help others <br>
 - 🌱 I’m currently learning design and code (Web Developer) <br>
 - 😄 I'm natively speak Indonesian and is learning english. <br>
-- 💕 I'm currently fall in love with VueJS and Laravel and the most important is Coffee <br>
 <p>
 <!--   <img width="44%" height="44%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahrezibayu&show_icons=true&locale=en&layout=compact" alt="fahrezibayu" />
   <img width="55%" height="55%" src="https://github-readme-stats.vercel.app/api?username=fahrezibayu&show_icons=true&locale=en" alt="fahrezibayu" /> -->
