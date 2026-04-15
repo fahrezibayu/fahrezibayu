@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Fahrezi Bayu
 
-💻 **Web Developer | Freelancer | Tech Enthusiast**
+💻 **Software Engineering | Freelancer | Tech Enthusiast**
 
 I enjoy building modern web applications and exploring new technologies.
 Currently focused on **JavaScript ecosystem, backend APIs, and scalable web systems**.
@@ -9,7 +9,7 @@ Currently focused on **JavaScript ecosystem, backend APIs, and scalable web syst
 
 ## 🚀 About Me
 
-* 🔭 I’m currently working as a **Freelancer Web Developer**
+* 🔭 I’m currently working as a **Freelancer Fullstack Web Developer**
 * 🌱 Currently learning **Design and Advanced Web Development**
 * ⚡ Love building **web applications and automation tools**
 * 🌍 Native language **Indonesian**, learning **English**
