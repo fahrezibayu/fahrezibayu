@@ -14,7 +14,7 @@ Currently focused on **JavaScript ecosystem, backend APIs, and scalable web syst
 * ⚡ Love building **web applications and automation tools**
 * 🌍 Native language **Indonesian**, learning **English**
 * 🌐 Portfolio:
-  https://tim-open.pro/fahrezibayu
+  https://fahrezibayu.github.io
 
 ---
 
