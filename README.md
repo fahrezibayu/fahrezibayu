@@ -14,7 +14,7 @@ I specialize in building scalable web applications, SaaS platforms, and automati
 - ⚡ Focus on **performance, clean code, and maintainability**
 - 🌍 Based in **Indonesia**
 - 🌐 Portfolio:  
-  👉 https://fahrezibayu.github.io
+  👉 https://fahrezibayu.vercel.app
 
 ---
 
