@@ -1,128 +1,73 @@
-# 👋 Hi there, I'm Fahrezi Bayu
+# Hi, I'm Fahrezi Bayu 👋
 
-💻 **Fullstack Software Engineer | Freelancer | SaaS Builder**
-
-I specialize in building scalable web applications, SaaS platforms, and automation systems using modern technologies across frontend, backend, and infrastructure.
+Fullstack Software Engineer focused on building web applications, SaaS platforms, and internal automation tools. I like writing clean, maintainable code and solving real-world production problems.
 
 ---
 
-## 🚀 About Me
-
-- 🔭 Currently working as a **Freelance Fullstack Developer**
-- 🧩 Building **SaaS products & automation tools**
-- 🌱 Learning **System Design & Scalable Architecture**
-- ⚡ Focus on **performance, clean code, and maintainability**
-- 🌍 Based in **Indonesia**
-- 🌐 Portfolio:  
-  👉 https://fahrezibayu.vercel.app
+### ⚡ Quick Overview
+- 🔭 Currently working as a **Freelance Fullstack Developer** & building SaaS products.
+- 🛠️ Daily stack: **TypeScript**, **Next.js**, **NestJS**, **Node.js**, **Laravel**, and **MongoDB/MySQL**.
+- ⚙️ Interested in: **System design, queue processing, caching strategies, and API performance.**
+- 🇮🇩 Based in Indonesia (GMT+7)
+- 🌐 Portfolio: [fahrezibayu.vercel.app](https://fahrezibayu.vercel.app)
 
 ---
 
-## 🔥 Featured Projects
+### 🛠️ Tech Stack & Tools
 
-### 🚀 SaaS CRM & Automation Platform
-- Built a CRM + WhatsApp Automation system (WABA, broadcast, AI response)
-- Handle **3000+ users**
-- Tech: `Next.js`, `NestJS`, `MongoDB`, `Redis`, `Docker`
-- Features:
-  - Real-time chat automation
-  - AI auto-reply
-  - Campaign & broadcast system
+**Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
----
-
-### 📊 Face Recognition Attendance System
-- AI-based attendance using face recognition
-- Tech: `Laravel`, `face-api.js`, `JavaScript`
-- Features:
-  - Auto face verification
-  - Real-time capture
-  - Attendance logging system
-
----
-
-### 🗺️ Mapping & Routing System
-- Built route calculation and distance tracking
-- Tech: `Vue.js`, `Leaflet.js`, `OpenStreetMap`
-- Features:
-  - Autocomplete location search
-  - Distance calculation
-  - Route visualization
+**Database & Infrastructure**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## 🧩 Current Focus
+### 🚀 Selected Projects
 
-- 🚀 Scaling SaaS architecture (queue, caching, microservices)
-- 🤖 AI integration for automation (chat, content, workflow)
-- ⚙️ Backend performance optimization
+#### 📲 WhatsApp Automation & SaaS CRM
+- Built an automated messaging & CRM system integrating Official WhatsApp Business API (WABA).
+- Handled broadcast scheduling, campaign delivery, and AI-powered auto-replies for active user bases.
+- **Tech:** Next.js, NestJS, MongoDB, Redis, Docker.
 
----
+#### 🎯 Face Recognition Attendance System
+- Developed a web-based automated attendance system using real-time camera face verification.
+- Integrated lightweight browser-side face recognition models for quick detection and logging.
+- **Tech:** Laravel, face-api.js, JavaScript, MySQL.
 
-## 🧠 Tech Stack
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
-![NuxtJS](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass)
+#### 🗺️ Route Calculation & Location Mapping
+- Interactive mapping interface with route visualization, distance calculation, and location search autocomplete.
+- **Tech:** Vue.js, Leaflet.js, OpenStreetMap API.
 
 ---
 
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahrezibayu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahrezibayu&theme=radical&layout=compact&count_private=true" width="48%" />
+</p>
 
 ---
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+### 📫 Get in Touch
 
----
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-
----
-
-### 🚀 Infrastructure & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-## 📊 GitHub Stats
-
-[![Fahrezi's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahrezibayu&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrezibayu&theme=radical&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
----
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fahrezi-bayu-24a445231/)
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/fahrezibayu)
-
----
-
-## ✨ Personal Branding
-
-> “I build scalable SaaS systems, not just features.”
+- **LinkedIn:** [linkedin.com/in/fahrezibayu](https://www.linkedin.com/in/fahrezibayu/)
+- **Email:** [fbp.mj32@gmail.com](mailto:fbp.mj32@gmail.com)
 
 ---
